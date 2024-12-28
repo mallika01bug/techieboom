@@ -62,7 +62,7 @@ export default function AppServices() {
                 <div className="icon">
                   <i className={services.icon}></i>
                 </div>
-                <h3>{services.titlel}</h3>
+                <h3>{services.title}</h3>
                 <p>{services.description}</p>
               </Col>
             );

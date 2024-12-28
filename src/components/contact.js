@@ -68,7 +68,7 @@ export default function AppContact() {
             </li>
             <li>
               <i className="fas fa-phone"></i>
-              7986184772
+              1234567890
             </li>
             <li>
               <i className="fas fa-map-marker-alt"></i>
